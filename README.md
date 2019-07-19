@@ -2,7 +2,7 @@ Copy from go-cache
 
 ### Installation
 
-`go get github.com/patrickmn/go-cache`
+`go get github.com/richardoctoey/AutoIncrement`
 
 ### Usage
 
